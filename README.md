@@ -3,7 +3,7 @@
 
 ## Základné údaje
 
-**Predajná cena:** 3900 EUR
+**Predajná cena:** 3990 EUR
 
 - Výkon 110 kW (150 PS)
 - Automatická prevodovka (5-stupňová)
