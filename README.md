@@ -4,6 +4,7 @@
 ## Základné údaje
 
 **Predajná cena:** 3990 EUR
+**Kontakt:** viliam.simko zavinac gmail.com
 
 - Výkon 110 kW (150 PS)
 - Automatická prevodovka (5-stupňová)
