@@ -1,2 +1,2 @@
 ## Predam BMW 320d Touring
-- http://username.github.io/repository
+- http://vsimko.github.io/bmw
