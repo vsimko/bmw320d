@@ -1,2 +1,2 @@
 ## Predam BMW 320d Touring
-- http://vsimko.github.io/bmw
+- http://vsimko.github.io/bmw320d
