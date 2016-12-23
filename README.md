@@ -55,7 +55,7 @@
 - senzor v sedadle spolujazdca, na základe ktorého svieti kontrolka airbagu (airbag funguje, len kontrolka stale svieti, 100-250 EUR)
 - spätné zrkadlá sa nikdy nedali sklopiť
 
-## Údrba vozidla + kalendár opráv
+## Údržba vozidla + kalendár opráv
 
 - parkované v podzemnej garáži
 - pravidelné vymeny oleja / filtrov každých 10000-12000 km
