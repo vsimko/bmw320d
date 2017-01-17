@@ -45,6 +45,7 @@
 - zimné hmlovky
 - stojan pre mobil ako navigáciu
 - digitalny merač tlaku
+- externá nabíjačka autobatérie
 
 
 ## Pravdepodobné opravy za 2 roky
@@ -52,32 +53,33 @@
 - brzdové doštičky - bežná údržba
 - olej, náplň klimatizácie - bežná údržba
 - turbo od začiatku mierne píska - možný repas turba (300-500 EUR)
-- možno nová batéria (keď nie je dostatočne nabitá, funguje len manualne zamykanie, vtedy je potrebné naštartovať a po chvíli sa batéria dobije)
-- vymena tesnenia na posilovači bŕzd (300-450 EUR)
-- senzor v sedadle spolujazdca, na základe ktorého svieti kontrolka airbagu (airbag funguje, len kontrolka stale svieti, 100-250 EUR)
+- nová batéria (75 EUR) (batéria sa nabíja počas jazdy alebo pomocou externej nabíjačky)
+- výmena tesnenia na posilovači bŕzd (300-450 EUR)
+- senzor v sedadle spolujazdca, na základe ktorého svieti kontrolka airbagu (airbag funguje, len kontrolka neustále svieti, 100-250 EUR)
 - spätné zrkadlá sa nikdy nedali sklopiť
 
 ## Údržba vozidla + kalendár opráv
 
 - parkované v podzemnej garáži
-- pravidelné vymeny oleja / filtrov každých 10000-12000 km
+- pravidelné výmeny oleja / filtrov každých 10000-12000 km
 - každé dva roky výmena chladiacej kvapaliny do klimatizácie (naposledy 2015)
 - STK každé dva roky (naposledy 2015/04)
 - ročná poistka na auto stojí 163 EUR
 - tankovaný premium diesel + aditivum (Super Diesel Aditiv)
 
 ### rok 2011 (195 000 km, zmena vlastníka)
-- nová automatická prevodovka
+- nová automatická prevodovka (750 EUR)
+- nový ventilátor chladenia (v prednej maske, 100 EUR)
 - nové tlmiče
 - nové brzdy
 - výmena olejov - motor, hydraulika
 
 ### rok 2012
 - nové brzdové doštičky 4x (40 EUR)
-- vymena motorčeku na zadnom stierači (120 EUR)
+- výmena motorčeku na zadnom stierači (120 EUR)
 
 ### rok 2013
-- inštalácia folií na zadné okná (150 EUR)
+- inštalácia fólií na zadné okná (150 EUR)
 - výmena predných ramien riadenia (320 EUR)
 - čistenie ventilačnej jednotky turba (40 EUR)
 - nové predné pružiny (150 EUR)
@@ -93,4 +95,3 @@
 ### rok 2016
 - výmena oleja v automatickej prevodovke (200 EUR)
 - nové brzdy a príslušenstvo 4x (400 EUR)
-
