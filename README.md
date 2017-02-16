@@ -12,7 +12,7 @@
 - Zadný pohon
 - Objem motoru 1995 cm³ (2 l)
 - Strieborná metalíza
-- **Rok výroby:** 2003
+- **Rok výroby:** 2002/10
 - **Najazdené:** 280000 km
 - 4-dverové, 5-miestne
 
@@ -37,12 +37,13 @@
 - lakťová opierka
 
 ## Ďalšia výbava
-- odnímateľná deliaca mreža
 - letné hliníkové disky orig. BMW
-- pomerne nové letné gumy Michelin (cca 15000 km)
+- 4x letné pneu Michelin - pomerne nové (cca 15000 km)
 - zimné metalické disky + orig. BMW puklice
-- zimné pneu na približne jednu sezónu
+- 2x zimné pneu Continental WinterContact TS860 - nové 2017/02 (2000 km)
+- 2x zimné pneu na približne jednu sezónu
 - zimné hmlovky
+- odnímateľná deliaca mreža
 - stojan pre mobil ako navigáciu
 - digitalny merač tlaku
 - externá nabíjačka autobatérie
@@ -95,3 +96,9 @@
 ### rok 2016
 - výmena oleja v automatickej prevodovke (200 EUR)
 - nové brzdy a príslušenstvo 4x (400 EUR)
+
+### rok 2017
+- 2x zimné pneu Continental WinterContact TS860 (200 EUR)
+  - 1. miesto: Test Autoklub CR 2016
+  - 1. miesto: Test Autobild 2016
+  - 1. miesto: Autoexpress 2016
