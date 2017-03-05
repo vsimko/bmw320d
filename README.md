@@ -53,7 +53,6 @@
 - tlmiče, pružiny - bežná údržba
 - brzdové doštičky - bežná údržba
 - olej, náplň klimatizácie - bežná údržba
-- turbo od začiatku mierne píska - možný repas turba (300-500 EUR)
 - nová batéria (75 EUR) (batéria sa nabíja počas jazdy alebo pomocou externej nabíjačky)
 - výmena tesnenia na posilovači bŕzd (300-450 EUR)
 - senzor v sedadle spolujazdca, na základe ktorého svieti kontrolka airbagu (airbag funguje, len kontrolka neustále svieti, 100-250 EUR)
@@ -97,8 +96,10 @@
 - výmena oleja v automatickej prevodovke (200 EUR)
 - nové brzdy a príslušenstvo 4x (400 EUR)
 
-### rok 2017
+### rok 2017 (280 000 km)
 - 2x zimné pneu Continental WinterContact TS860 (200 EUR)
   - 1. miesto: Test Autoklub CR 2016
   - 1. miesto: Test Autobild 2016
   - 1. miesto: Autoexpress 2016
+- vymenene turbo (320 EUR)
+- vymena oleja + filter
