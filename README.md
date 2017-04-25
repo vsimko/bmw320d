@@ -100,6 +100,7 @@
 - nastavenie vstrekovačov (protokol s výsledkami testu k dispozícii)
 - nová batéria (90 EUR)
 - nový posilovač bŕzd (300 EUR)
+- nové silent-bloky (120 EUR)
 - nové pružiny
 - výmena: olej, olejový filter, vzduchový filter
 
