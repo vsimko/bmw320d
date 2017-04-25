@@ -3,9 +3,9 @@
 
 ## Základné údaje
 
-**Predajná cena:** 3990 EUR
+**Predajná cena:** 4500 EUR
 
-**Kontakt:** viliam.simko zavinac gmail.com
+**Kontakt:** viliam.simko zavináč gmail.com
 
 - Výkon 110 kW (150 PS)
 - Automatická prevodovka (5-stupňová)
@@ -13,7 +13,7 @@
 - Objem motoru 1995 cm³ (2 l)
 - Strieborná metalíza
 - **Rok výroby:** 2002/10
-- **Najazdené:** 280000 km
+- **Najazdené:** 295000 km
 - 4-dverové, 5-miestne
 
 ## Náklady na prevádzku auta
@@ -48,22 +48,17 @@
 - digitalny merač tlaku
 - externá nabíjačka autobatérie
 
-
 ## Pravdepodobné opravy za 2 roky
 - tlmiče, pružiny - bežná údržba
 - brzdové doštičky - bežná údržba
 - olej, náplň klimatizácie - bežná údržba
-- nová batéria (75 EUR) (batéria sa nabíja počas jazdy alebo pomocou externej nabíjačky)
-- výmena tesnenia na posilovači bŕzd (300-450 EUR)
-- senzor v sedadle spolujazdca, na základe ktorého svieti kontrolka airbagu (airbag funguje, len kontrolka neustále svieti, 100-250 EUR)
 - spätné zrkadlá sa nikdy nedali sklopiť
 
 ## Údržba vozidla + kalendár opráv
-
-- parkované v podzemnej garáži
+- auto parkované v podzemnej garáži
 - pravidelné výmeny oleja / filtrov každých 10000-12000 km
 - každé dva roky výmena chladiacej kvapaliny do klimatizácie (naposledy 2015)
-- STK každé dva roky (naposledy 2015/04)
+- STK každé dva roky (naposledy 2017/03)
 - ročná poistka na auto stojí 163 EUR
 - tankovaný premium diesel + aditivum (Super Diesel Aditiv)
 
@@ -101,5 +96,11 @@
   - 1. miesto: Test Autoklub CR 2016
   - 1. miesto: Test Autobild 2016
   - 1. miesto: Autoexpress 2016
-- vymenene turbo (320 EUR)
-- vymena oleja + filter
+- vymenené turbo (320 EUR)
+- nastavenie vstrekovačov (protokol s výsledkami testu k dispozícii)
+- nová batéria (90 EUR)
+- nový posilovač bŕzd (300 EUR)
+- nové pružiny
+- výmena: olej, olejový filter, vzduchový filter
+
+
