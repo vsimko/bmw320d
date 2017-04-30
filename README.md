@@ -99,9 +99,9 @@
 - vymenené turbo (320 EUR)
 - nastavenie vstrekovačov (protokol s výsledkami testu k dispozícii)
 - nová batéria (90 EUR)
-- nový posilovač bŕzd (300 EUR)
+- nový posilovač bŕzd (200 EUR)
 - nové silent-bloky (120 EUR)
-- nové pružiny
+- nové pružiny (100 EUR)
 - výmena: olej, olejový filter, vzduchový filter
 
 
