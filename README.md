@@ -12,7 +12,7 @@
 - Zadný pohon
 - Objem motoru 1995 cm³ (2 l)
 - Strieborná metalíza
-- **Rok výroby:** 2002/10
+- **Rok výroby:** 2003
 - **Najazdené:** 295000 km
 - 4-dverové, 5-miestne
 
