@@ -3,7 +3,7 @@
 
 ## Základné údaje
 
-**Predajná cena:** 4500 EUR
+**Predajná cena:** 3600 EUR
 
 **Kontakt:** viliam.simko zavináč gmail.com
 
@@ -13,7 +13,7 @@
 - Objem motoru 1995 cm³ (2 l)
 - Strieborná metalíza
 - **Rok výroby:** 2003
-- **Najazdené:** 295000 km
+- **Najazdené:** 320000 km
 - 4-dverové, 5-miestne
 
 ## Náklady na prevádzku auta
@@ -38,10 +38,9 @@
 
 ## Ďalšia výbava
 - letné hliníkové disky orig. BMW
-- 4x letné pneu Michelin - pomerne nové (cca 15000 km)
+- 4x letné pneu Michelin
 - zimné metalické disky + orig. BMW puklice
-- 2x zimné pneu Continental WinterContact TS860 - nové 2017/02 (2000 km)
-- 2x zimné pneu na približne jednu sezónu
+- 4x zimné pneu Continental WinterContact TS860
 - zimné hmlovky
 - odnímateľná deliaca mreža
 - stojan pre mobil ako navigáciu
@@ -49,17 +48,18 @@
 - externá nabíjačka autobatérie
 
 ## Pravdepodobné opravy za 2 roky
-- tlmiče, pružiny - bežná údržba
+- zadné tlmiče - bežná údržba
 - brzdové doštičky - bežná údržba
 - olej, náplň klimatizácie - bežná údržba
 - spätné zrkadlá sa nikdy nedali sklopiť
 
 ## Údržba vozidla + kalendár opráv
 - auto parkované v podzemnej garáži
+- auto jazdené väčšinu času na diaľniciach v DE, CZ, SK
 - pravidelné výmeny oleja / filtrov každých 10000-12000 km
-- každé dva roky výmena chladiacej kvapaliny do klimatizácie (naposledy 2015)
+- každé dva roky výmena chladiacej kvapaliny do klimatizácie (naposledy 2018)
 - STK každé dva roky (naposledy 2017/03)
-- ročná poistka na auto stojí 163 EUR
+- ročná poistka na auto stojí 170 EUR
 - tankovaný premium diesel + aditivum (Super Diesel Aditiv)
 
 ### rok 2011 (195 000 km, zmena vlastníka)
@@ -104,4 +104,7 @@
 - nové pružiny (100 EUR)
 - výmena: olej, olejový filter, vzduchový filter
 
-
+### rok 2018 (300 000 km)
+- výmena drážkového remeňa (300 EUR)
+- výmena predných ramien riadenia (200 EUR)
+- výmena chladiacej zmesi v klimatizacii, dezinfekcia
