@@ -105,6 +105,7 @@
 - výmena: olej, olejový filter, vzduchový filter
 
 ### rok 2018 (300 000 km)
-- výmena drážkového remeňa (300 EUR)
-- výmena predných ramien riadenia (200 EUR)
+- výmena drážkového remeňa (350 EUR)
+- výmena predných ramien riadenia (300 EUR)
 - výmena chladiacej zmesi v klimatizacii, dezinfekcia
+
