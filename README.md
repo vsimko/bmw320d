@@ -124,7 +124,7 @@ servis a celkové náklady (vrátane postenia, parkovania a nákupu doplnkov).
 - olej, náplň klimatizácie - bežná údržba
 - možno bude niekedy potrebné vymeniť zadné ložisko (30 EUR)
 
-## Estetické vylepšenia
+## Estetické vylepšenia
 - drobná hrdza na pravom prednom blatníku (lokálne prebrusiť a prelakovať, alebo výmena celého kusu za nový 100-200 EUR)
 - za cca 30 EUR za kus je možné vymeniť tesnenia na oknách u vodiča a spolujazdca (len kôli estetike)
   - BMW Schachtabdeckung aussen rechts Teilenummer: 51338194708
