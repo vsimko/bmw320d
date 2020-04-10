@@ -3,7 +3,7 @@
 
 ## Základné údaje
 
-**Predajná cena:** 3600 EUR
+**Predajná cena:** 3500 EUR
 
 **Kontakt:** viliam.simko zavináč gmail.com
 
@@ -47,22 +47,14 @@ servis a celkové náklady (vrátane postenia, parkovania a nákupu doplnkov).
 - 4x zimné pneu Continental WinterContact TS860
 - zimné hmlovky
 - odnímateľná deliaca mreža
-- stojan pre mobil ako navigáciu
-- digitalny merač tlaku
 - externá nabíjačka autobatérie
-
-## Pravdepodobné opravy za 2 roky
-- zadné tlmiče - bežná údržba
-- brzdové doštičky - bežná údržba
-- olej, náplň klimatizácie - bežná údržba
-- spätné zrkadlá sa nikdy nedali sklopiť
 
 ## Údržba vozidla + kalendár opráv
 - auto parkované v podzemnej garáži
 - auto jazdené väčšinu času na diaľniciach v DE, CZ, SK
 - pravidelné výmeny oleja / filtrov každých 10000-12000 km
-- každé dva roky výmena chladiacej kvapaliny do klimatizácie (naposledy 2018)
-- STK každé dva roky (naposledy 2017/03)
+- každé dva roky výmena chladiacej kvapaliny do klimatizácie
+- STK každé dva roky (naposledy 2019/03)
 - ročná poistka na auto stojí 170 EUR
 - tankovaný premium diesel + aditivum (Super Diesel Aditiv)
 
@@ -113,3 +105,27 @@ servis a celkové náklady (vrátane postenia, parkovania a nákupu doplnkov).
 - výmena predných ramien riadenia (300 EUR)
 - výmena chladiacej zmesi v klimatizacii, dezinfekcia
 
+### rok 2019 (315 000 km)
+- STK
+- oprava systému upevnenia ručnej brzdy (STK)
+- nové predné svetlomety (100 EUR)
+- nová riadiacia jednotka centrálneho zamykania (80 EUR)
+- výmena: olej, olejový filter, vzduchový filter
+- drobné opravy v rámci prípravy na predaj
+- od Augusta 2019 auto stojí v garáži a čaká na budúceho majiteľa
+
+## Známe vady, budúce opravy a údržba
+- spätné zrkadlá sa nikdy nedali sklopiť, čo však nevadí ani v autoumývačke
+- strešné okno sa mi zaseklo (jednoduchá oprava možná svojpomocne, nahradné diely max. 50 EUR)
+- obnova kontaktov na vyhrievaní zadného okna (svojpomocne striebornou farbou)
+- vadný kontakt na vyhrievaní sedadla u vodiča (treba rozobrať sedadlo a spojiť kontakty)
+- zadné tlmiče - bežná údržba
+- brzdové doštičky - bežná údržba
+- olej, náplň klimatizácie - bežná údržba
+- možno bude niekedy potrebné vymeniť zadné ložisko (30 EUR)
+
+## Estetické vylepšenia
+- drobná hrdza na pravom prednom blatníku (lokálne prebrusiť a prelakovať, alebo výmena celého kusu za nový 100-200 EUR)
+- za cca 30 EUR za kus je možné vymeniť tesnenia na oknách u vodiča a spolujazdca (len kôli estetike)
+  - BMW Schachtabdeckung aussen rechts Teilenummer: 51338194708
+  - BMW Schachtabdeckung aussen links Teilenummer: 51338194707
