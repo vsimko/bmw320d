@@ -87,7 +87,7 @@ servis a celkové náklady (vrátane postenia, parkovania a nákupu doplnkov).
 - výmena oleja v automatickej prevodovke (200 EUR)
 - nové brzdy a príslušenstvo 4x (400 EUR)
 
-### rok 2017 (280 000 km)
+### rok 2017
 - 2x zimné pneu Continental WinterContact TS860 (200 EUR)
   - 1. miesto: Test Autoklub CR 2016
   - 1. miesto: Test Autobild 2016
@@ -100,12 +100,12 @@ servis a celkové náklady (vrátane postenia, parkovania a nákupu doplnkov).
 - nové pružiny (100 EUR)
 - výmena: olej, olejový filter, vzduchový filter
 
-### rok 2018 (300 000 km)
+### rok 2018
 - výmena drážkového remeňa (350 EUR)
 - výmena predných ramien riadenia (300 EUR)
 - výmena chladiacej zmesi v klimatizacii, dezinfekcia
 
-### rok 2019 (315 000 km)
+### rok 2019
 - STK
 - oprava systému upevnenia ručnej brzdy (STK)
 - nové predné svetlomety (100 EUR)
