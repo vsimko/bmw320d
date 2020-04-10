@@ -21,7 +21,7 @@ Všetky náklady spojené s vlastníctvom auta vediem v prehľadnej tabuľke.
 Nasledujúci diagram znázorňuje akumulované náklady za tankovanú naftu,
 servis a celkové náklady (vrátane postenia, parkovania a nákupu doplnkov).
 ![](img/naklady.png)
-* Náklady na servis auta sú priemerne 500 EUR za rok
+* Moje náklady na servis auta boli priemerne 500 EUR za rok (pri nájazde 15-20000 km za rok)
 * Náklady na palivo sú priemerne 7,8125 EUR na 100 km (približne 6,5 litrov na 100 km)
 
 ## Bezpečnosť
