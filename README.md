@@ -3,7 +3,7 @@
 
 ## Základné údaje
 
-**Predajná cena:** 3500 EUR
+**Predajná cena:** 3100 EUR
 
 **Kontakt:** viliam.simko zavináč gmail.com
 
